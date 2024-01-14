@@ -21,3 +21,4 @@ dist
 *.sw?
 
 project.private.config.json
+.vercel
